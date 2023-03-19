@@ -1,8 +1,9 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- * main - Entry
- * return:1
+ * main - prints "and that place of art is useful" - Dora Korpar,2015-10-19,
+ * followed by a newline directed to standard error.
+ * return: 1
  */
 int main(void)
 {
